@@ -1,0 +1,17 @@
+./dataset/
+./runs/
+./ConvNeXt_cholect.pt
+./ConvNeXtSAM_cholect.pt
+./yolov5l_cholect.pt
+./yolov5s.pt
+./README.md
+./mean_features.py
+./prova_import.py
+./hubconf.py
+./find_most_activated_pixel.py
+./extract_pixel.py
+./detect_featureextraction.py
+./CONTRIBUTING.md
+./CITATION.cff
+./boxplot_iou.py
+./benchmarks.py
